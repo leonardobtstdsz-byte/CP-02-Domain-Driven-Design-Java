@@ -10,13 +10,9 @@ Desenvolver um programa de inventário para cadastrar produtos, consultar seus d
 
 ## Integrantes
 
-- Leonardo Batista de Souza
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
-- Nome do integrante 5
-
-Substitua os nomes de exemplo pelos integrantes reais do grupo.
+- Alexandre Constantino Furtado Junior — RM567188
+- Leonardo Batista de Souza — RM568558
+- Matheus Freitas dos Santos — RM567337
 
 ## Produtos de exemplo
 
